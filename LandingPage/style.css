@@ -290,6 +290,21 @@
     color:#2D7465;  
 }
 
+/* mobileFriendly */
+@media (max-width: 576.98px) { 
+
+    .section1 .section2 {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .section1 .left {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+ }
+
 
 
 
