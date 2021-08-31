@@ -333,6 +333,36 @@
 }
 
 
+@media (max-width: 575.98px) { 
+    .section1 , .section2 {
+        flex-direction: column;
+        height:auto;
+
+    }
+
+    .section1 .right img {
+        margin-bottom: -5px;
+    }
+
+
+    .section1 .left {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .section2 .right {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+    .clients  {
+        flex-direction: column;
+    }
+
+
+}
+
 
 
 
